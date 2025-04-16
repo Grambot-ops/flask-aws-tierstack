@@ -8,7 +8,7 @@ WORKDIR /app
 
 # Now we copy the application file to the /app location
 
-COPY ../Simple_Flusk_app/ .
+COPY ..\Simple_Flask_app\ . 
 
 # Now we install what is need
 
